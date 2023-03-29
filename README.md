@@ -8,4 +8,4 @@
 ## Data
 
 ### Open source data from Instacart and a customer data set created for the purpose of this project.
-[Customers Data Set]("https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip")
+[Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
